@@ -87,8 +87,3 @@ linkedin-job-trends-eda/
 └── README.md
 ```
 
----
-
-
-
-Just say **next** 👍
